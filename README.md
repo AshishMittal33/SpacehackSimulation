@@ -1,2 +1,4 @@
-# SpacehackSimulation
-A 3d space education simulation 
+# SpaceHack
+
+Set-Up:
+- Clone the repository in a folder, then just run the "spacehack.exe" 
